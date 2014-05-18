@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MyRecorder">
+</Property><Property Name="解决方案文件" Value="C:\Users\Administrator\Desktop\MyRecorder\MyRecorder\MyRecorder.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\Administrator\Desktop\MyRecorder\MyRecorder\MyRecorder.suo">
+</Property><Property Name="Date" Value="2014年5月18日">
+</Property><Property Name="Time" Value="15:36">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MyRecorder.sln" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MyRecorder\MyRecorder\MyRecorder.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="MyRecorder.suo" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MyRecorder\MyRecorder\MyRecorder.suo.old">
+</Event><Event ErrorLevel="0" Project="MyRecorder" Source="MyRecorder.vcproj" Description="Converting project file 'C:\Users\Administrator\Desktop\MyRecorder\MyRecorder\MyRecorder.vcproj'.">
+</Event><Event ErrorLevel="1" Project="MyRecorder" Source="MyRecorder.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="MyRecorder" Source="MyRecorder.vcproj" Description="MSB8012: $(TargetPath) ('C:\Users\Administrator\Desktop\MyRecorder\MyRecorder\.\Debug\MyRecorder.exe') does not match the Linker's OutputFile property value '.\Debug/MyRecorder.exe' ('C:\Users\Administrator\Desktop\MyRecorder\MyRecorder\Debug/MyRecorder.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="MyRecorder" Source="MyRecorder.vcproj" Description="MSB8012: $(TargetPath) ('C:\Users\Administrator\Desktop\MyRecorder\MyRecorder\.\Release\MyRecorder.exe') does not match the Linker's OutputFile property value '.\Release/MyRecorder.exe' ('C:\Users\Administrator\Desktop\MyRecorder\MyRecorder\Release/MyRecorder.exe') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="MyRecorder" Source="MyRecorder.vcproj" Description="Done converting to new project file 'C:\Users\Administrator\Desktop\MyRecorder\MyRecorder\MyRecorder.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="MyRecorder" Source="MyRecorder.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MyRecorder.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="MyRecorder.sln" Description="Converted">
+</Event></UpgradeLog>
